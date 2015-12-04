@@ -1,12 +1,16 @@
 {
   "name": "best-digitalocean-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Find the best digital ocean server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Henrik Karlsson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ineentho/best-digitalocean-server.git"
+  },
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.0.6",
